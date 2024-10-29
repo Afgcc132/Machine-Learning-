@@ -2,4 +2,4 @@ En este repositorio busco aplicar los conocmientos adquiridos de tecnicas de mac
 * Regresión Lineal
 * Regresión logistica
 * k-Means
-* 
+* KVS
