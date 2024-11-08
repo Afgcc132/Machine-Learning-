@@ -3,4 +3,4 @@ En este repositorio busco aplicar los conocmientos adquiridos de tecnicas de mac
 * Regresión logistica
 * k-Means
 * Arboles de regresión
-* 
+* SMV 
