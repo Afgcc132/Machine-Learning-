@@ -4,3 +4,5 @@ En este repositorio busco aplicar los conocmientos adquiridos de tecnicas de mac
 * k-Means
 * Arboles de regresión
 * SMV 
+* K Means
+* 
