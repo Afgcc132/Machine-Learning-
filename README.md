@@ -5,6 +5,5 @@ En este repositorio busco aplicar los conocmientos adquiridos de tecnicas de mac
 * Arboles de regresión
 * SMV 
 * K Means
-
-* *
+* Sistemas de recomendación
 * 
