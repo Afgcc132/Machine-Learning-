@@ -7,6 +7,7 @@ En este repositorio busco aplicar los conocmientos adquiridos de tecnicas de mac
 * K Means
 * Sistemas de recomendación
 * PCA  (Análisis de componentes principales)
+* 
 
   
   
