@@ -11,3 +11,4 @@ En este repositorio busco aplicar los conocmientos adquiridos de tecnicas de mac
 * KNN (Cancer)
 * SVM (detallado)
 * 
+
