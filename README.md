@@ -12,4 +12,6 @@ En este repositorio busco aplicar los conocmientos adquiridos de tecnicas de mac
 * SVM (detallado)
 * ADAboost with gridsearch
 * Prueba De hipotesis
+* Keras regressor completo
+  
   
