@@ -14,5 +14,6 @@ En este repositorio busco aplicar los conocmientos adquiridos de tecnicas de mac
 * Prueba De hipotesis
 * Keras regressor completo
 * Keras regressor Basico
-  
+* Keras Clasification complete
+* 
   
