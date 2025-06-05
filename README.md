@@ -1,9 +1,9 @@
-En este repositorio busco aplicar los conocmientos adquiridos de tecnicas de machine learning 
+En este repositorio busco aplicar los conocimientos adquiridos de técnicas de machine learning
 * Regresión Lineal
 * Regresión logistica
 * Clustering
 * Arboles de regresión
-* SMV 
+* SVM
 * K Means
 * Sistemas de recomendación
 * PCA  (Análisis de componentes principales)
@@ -15,5 +15,4 @@ En este repositorio busco aplicar los conocmientos adquiridos de tecnicas de mac
 * Keras regressor completo
 * Keras regressor Basico
 * Keras Clasification complete
-* 
   
