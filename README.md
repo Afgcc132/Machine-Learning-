@@ -15,4 +15,4 @@ En este repositorio busco aplicar los conocimientos adquiridos de técnicas de m
 * Keras regressor completo
 * Keras regressor Basico
 * Keras Clasification complete
-* 
+  
