@@ -17,7 +17,6 @@ En este repositorio busco aplicar los conocimientos adquiridos de técnicas de m
 * Keras Clasification complete
 * EDA and Preprocessing
 
-* 
 
 
 
