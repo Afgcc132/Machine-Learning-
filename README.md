@@ -18,3 +18,4 @@ En este repositorio busco aplicar los conocimientos adquiridos de técnicas de m
 * EDA and Preprocessing
 * Random Forest clasification
 * Random Forest Regresiion
+* 
